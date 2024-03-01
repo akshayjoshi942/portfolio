@@ -2,7 +2,7 @@
 
 ## Summary
 
-<p style='text-align: justify;'> Akshay Joshi is a senior consultant with Deloitte’s AI & Data practice & helps implement data science pipeline for Fortune 50 LSHC clients. He has a master’s in applied math (Operations Research) & previous experience building predictive models for B2C clients. Akshay thrives in fast-paced, high impact roles that involve problem solving using advanced analytics. </p>
+<p style='text-align: justify;'> Akshay Joshi is a senior consultant with Deloitte’s AI & Data practice. He helps implement data science pipeline for Fortune 50 LSHC clients. He has a master’s in applied math (Operations Research) & previous experience building predictive models for B2C clients. Akshay thrives in fast-paced, high impact roles that involve problem solving using advanced analytics. </p>
 
 His active interests include books, model trains, scale modelling and hiking.
 
