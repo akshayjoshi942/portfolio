@@ -19,31 +19,23 @@
 
          <img src="./doc/assets/images/profile.jpg" alt="profile" width="200"/>
   
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <b>Personal Portfolio</b>
 
       </header>
       <section>
 
-      {{ content }}
+      <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+      <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="akshaymjoshi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/akshaymjoshi?trk=profile-badge">Akshay Joshi</a></div>
+              
 
       </section>
       
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by Akshay Joshi</p>
+        <b>This project is maintained by Akshay Joshi</b>
         {% endif %}
       </footer>
-      <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  
-  <div class="wrapper">
-    {%- if site.github_username -%}
-    <ul class="contact-list">
-      <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a>
-    </ul>
-    {%- endif -%}
-  </div>
-  
+       
 </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
