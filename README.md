@@ -2,12 +2,9 @@
 
 ## Summary
 
-<p style='text-align: justify;'> Akshay is a senior AI & data consultant at Deloitte Consulting US. With his current client, he leads a clinical analytics project that seeks to monetize fraud savings using a plethora of AI/ML models. As a strategy consultant, business clients rely on his deep project knowledge to support feature development and develop program roadmap. His efforts were recognized by the client Account who selected Akshay as one of the 2021 & 2022 Exceptional Staff. With his previous employer, Akshay was involved in Analytics-as-a-Service environment and led a team of 9 members handling ~$1M portfolio for a leading software and devices conglomerate. He is also proud of his three month internship with United Nations in New York.  </p>
+<p style='text-align: justify;'> Akshay Joshi is a senior consultant with Deloitte’s AI & Data practice & helps implement data science pipeline for Fortune 50 LSHC clients. He has a master’s in applied math (Operations Research) & previous experience building predictive models for B2C clients. Akshay thrives in fast-paced, high impact roles that involve problem solving using advanced analytics. </p>
 
-Akshay has a Bachelor’s in Mechanical Engineering from India and Master’s in Applied Mathematics (Operations Research) from North Carolina State University. Akshay is cloud certified & currently pursuing his Google Machine Learning Certification.
-
-His active interests include books, model trains, scale modelling, writing and hiking.
-
+His active interests include books, model trains, scale modelling and hiking.
 
 ## Experience
 ### Deloitte Consulting
