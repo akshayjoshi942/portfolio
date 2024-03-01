@@ -27,11 +27,24 @@
       {{ content }}
 
       </section>
+      
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by Akshay Joshi</p>
         {% endif %}
       </footer>
+      <footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+  <div class="wrapper">
+    {%- if site.github_username -%}
+    <ul class="contact-list">
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a>
+    </ul>
+    {%- endif -%}
+  </div>
+  
+</footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
